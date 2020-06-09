@@ -1,4 +1,4 @@
-﻿/// <binding Clean='clean' / --test --2  >
+﻿/// <binding Clean='clean' / --test --2 - after branch >
 "use strict";
 
 const gulp = require("gulp"),
